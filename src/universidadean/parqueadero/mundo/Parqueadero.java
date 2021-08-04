@@ -317,7 +317,7 @@ public class Parqueadero {
 
     /**
      * Método de extensión 1.
-     *
+     *Este método indica la placa correspondiente al carro que lleva más tiempo en el parqueadero
      * @return Respuesta 1.
      */
     public String metodo1() {
@@ -340,7 +340,7 @@ public class Parqueadero {
 
     /**
      * Método de extensión 2.
-     *
+     *Este método indica si hay parqueaderos disponibles
      * @return Respuesta 2.
      */
     public String metodo2() {
